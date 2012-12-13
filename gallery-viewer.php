@@ -183,7 +183,7 @@
 
                                                     <!-- Events bar at bottom of page -->
 
-                                                    <div class="row" style="padding-left: 25px; margin-bottom: 5px; clear: left;">
+                                                    <div class="row" style="margin-bottom: 5px; clear: left; width: 100%; margin-right: 0px; margin-left: 0px;">
                                                         <div class="alert alert-info">
                                                             Sort photos by selecting an album below: 
                                                         </div>
